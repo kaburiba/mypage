@@ -34,3 +34,6 @@
 
 
 ほげ[ふが](https://github.com/)ぴよ
+
+hoge[hoge](./hoge.md)hoge
+hoge[huga](.//huga.md)hoge
